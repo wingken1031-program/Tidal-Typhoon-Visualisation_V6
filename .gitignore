@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data (keep large raw CSVs out of repo if desired)
+# Uncomment next lines to avoid pushing CSVs
+# *.csv
+
+# VS Code
+.vscode/

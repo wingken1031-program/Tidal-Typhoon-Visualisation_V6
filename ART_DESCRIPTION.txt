@@ -1,0 +1,29 @@
+Tidal Typhoon Generative Art — Work Description
+
+Overview
+This interactive, map-based generative artwork visualizes how ocean tides respond to the arrival and evolution of a typhoon near Hong Kong. It blends real typhoon tracks and tide measurements with a living particle field to create a luminous, data-driven composition.
+
+What you see
+- World atlas backdrop: A night-style basemap with coastlines and countries centers the scene on Hong Kong and the South China Sea.
+- Moving eye: The typhoon’s eye travels along a glowing, smoothed ribbon of its best-track path. A comet-like tail and a subtle heading line hint at motion and momentum.
+- Eyewall + rainbands: Concentric, pulsing rings suggest the eyewall; two soft spiral bands extend outward, lengthening as intensity grows.
+- Ocean flow: Thousands of particles flow across the sea surface. Their motion and color respond to tide level and typhoon intensity—deeper blues to vibrant cyans as energy builds.
+
+How it moves
+- Time controls let you scrub or play through each storm’s lifecycle.
+- As intensity rises, the flow field sharpens and the eye’s vortex strengthens.
+- Tide level subtly changes visual texture and glow, creating a dialogue between ocean and atmosphere.
+- Click anywhere on the map to inject a local vortex and witness the interaction between typhoon-driven flow and the surrounding sea.
+
+Data sources
+- Typhoon path: Tropical cyclone best-track data (name, time, lat/lon, wind, pressure).
+- Tides: Hong Kong tide heights (timestamped). The artwork normalizes tide levels over the dataset for visual modulation.
+
+Artist’s note
+This piece is a poetic synthesis of motion and place—an evolving portrait of atmosphere meeting ocean. It stays grounded in real latitude/longitude around Hong Kong while embracing a luminous, expressive aesthetic that invites exploration and play.
+
+Tips for viewing
+- Choose different typhoons to experience distinct paths and intensities.
+- Press Play to watch the eye traverse its ribbon path; increase Speed for a dynamic rhythm.
+- Adjust Trail for denser, more painterly particle textures.
+- Click near the storm to stir additional swirls and discover new patterns.
